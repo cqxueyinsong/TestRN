@@ -1,0 +1,13 @@
+{
+  "name": "TestRN",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^16.4.0-alpha.0911da3",
+    "react-native": "^0.55.3",
+    "react-navigation": "^1.5.11"
+  }
+}
